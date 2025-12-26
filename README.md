@@ -1,10 +1,8 @@
 # 🐍 Python Intermediate Projects
 
-This repository contains exercises and small projects developed during the intermediate stages of my Python learning journey, based on **Python Mundo 2 and Mundo 3** (Curso em Vídeo).
+This repository represents the continuation of my Python learning journey, building upon the foundations established in my previous beginner-level projects.
 
-The focus of this repository is to strengthen programming logic, code organization, and practical problem-solving using more advanced Python concepts.
-
----
+The main goal of this repository is to further explore, practice, and apply programming logic, core Python concepts, and good coding practices through more complex exercises and problem-solving scenarios, as my understanding of the language evolves.
 
 ## 📚 Topics Covered
 
@@ -40,7 +38,6 @@ The topics listed below represent concepts studied and applied throughout the pr
 ---
 
 ## ▶️ How to Run
-
 1. Make sure Python 3.x is installed  
 2. Clone the repository:
    ```bash
