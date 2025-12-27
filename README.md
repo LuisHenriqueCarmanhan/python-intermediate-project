@@ -23,11 +23,11 @@ The topics listed below represent concepts studied and applied throughout the pr
 
 ## 📂 Projects
 
-- `complete_analyzer.py` → **Scalable Data Analyzer.** Processes name, age, and gender for a custom group size with statistical reports and logic for the oldest male.
-- `palindrome_detector.py` → **String Expert.** Detects palindromes by cleaning strings through sanitization and using Pythonic slicing.
-- `prime_numbers.py` → **Mathematical Logic.** Verifies prime numbers with a visual terminal interface and ANSI colors to highlight divisors.
-- `rock_paper_scissors.py` → **AI Edition Jokenpô.** Interactive gameplay with 'sleep' delays, dynamic roasts, and references to "AM".
-- `payment_manager.py` → **Checkout System.** Calculates final prices with discounts/interest and features a 12x installment limiter.
+- `complete_analyzer.py` → Analyzes age/gender patterns for a custom group size with statistical reports.
+- `palindrome_detector.py` → Detects palindromes by cleaning strings through sanitization and slicing.
+- `prime_numbers.py` → Verifies prime numbers using mathematical logic and ANSI terminal colors.
+- `rock_paper_scissors.py` → **AI Edition Jokenpô.** Interactive gameplay with 'sleep' delays and dynamic roasts.
+- `payment_manager.py` → **Checkout System.** Calculates prices with discounts/interest and installment limits.
 - `number_guessing_game.py` → Number guessing game using loops, conditions, and random logic.
 - `menu_system.py` → Menu-driven program using loops and user input.
 - `bank_simulator.py` → Simple ATM/bank system simulation with balance control.
@@ -37,7 +37,6 @@ The topics listed below represent concepts studied and applied throughout the pr
 - `data_statistics.py` → Collects numeric data and displays statistics.
 - `string_processing.py` → Advanced string analysis and formatting.
 - `number_classifier.py` → Classifies numbers based on multiple conditions and rules.
-
 ---
 
 ## ▶️ How to Run
