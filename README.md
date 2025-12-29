@@ -6,37 +6,40 @@ The main goal of this repository is to further explore, practice, and apply prog
 
 ## 📚 Topics Covered
 
-The topics listed below represent concepts studied and applied throughout the projects, with increasing complexity:
+The topics listed below represent concepts studied and applied throughout the projects:
 
-- **Conditional logic and nested conditions** (Applied in Payment Manager and Data Analyzer)
-- **Loops (`for`, `while`)** and Control flow (`break`, `continue`)
-- **Functions and modularization**
-- **Lists, tuples, and dictionaries**
-- **String manipulation and formatting** (Advanced f-strings, sanitization with `.split()`/`.join()` and slicing `[::-1]`)
-- **Input validation and Limiters** (Enforcing rules like the 12x installment limit and dynamic group sizes)
-- **Basic error handling** (Division by zero safety)
-- **Standard libraries** (`random`, `math`, `time`, `datetime`)
-- **Simple algorithms and logic challenges** (Prime numbers and Palindromes)
-- **User Experience (UX):** Adding delays (`time.sleep`), ANSI colors for terminal feedback, and dynamic AI responses
+- Conditional logic and nested conditions (Applied in Payment Manager and Data Analyzer)
+- Loops (for, while) and Control flow (break, continue)
+- Functions and modularization
+- Lists, tuples, and dictionaries
+- String manipulation and formatting (Advanced f-strings and slicing)
+- Input validation and Limiters (Enforcing rules and dynamic constraints)
+- Standard libraries (random, math, time, datetime)
+- User Experience (UX): Adding delays (time.sleep) and ANSI colors
 
 ---
 
 ## 📂 Projects
 
-- `complete_analyzer.py` → Analyzes age/gender patterns for a custom group size with statistical reports.
-- `palindrome_detector.py` → Detects palindromes by cleaning strings through sanitization and slicing.
-- `prime_numbers.py` → Verifies prime numbers using mathematical logic and ANSI terminal colors.
-- `rock_paper_scissors.py` → **AI Edition Jokenpô.** Interactive gameplay with 'sleep' delays and dynamic roasts.
-- `payment_manager.py` → **Checkout System.** Calculates prices with discounts/interest and installment limits.
-- `number_guessing_game.py` → Number guessing game using loops, conditions, and random logic.
-- `menu_system.py` → Menu-driven program using loops and user input.
-- `bank_simulator.py` → Simple ATM/bank system simulation with balance control.
-- `student_grade_manager.py` → Manages student names and grades using lists and dictionaries.
-- `tuple_analysis.py` → Tuple-based data analysis (min, max, count, sorting).
-- `matrix_operations.py` → Basic matrix creation and traversal using nested lists.
-- `data_statistics.py` → Collects numeric data and displays statistics.
-- `string_processing.py` → Advanced string analysis and formatting.
-- `number_classifier.py` → Classifies numbers based on multiple conditions and rules.
+### ⭐ Featured Projects
+- evenoddgame.py → Even or Odd: AM Protocol. Hostile AI with Kira-themed responses.
+- rock_paper_scissors.py → AI Edition Jokenpô. Interactive gameplay with dynamic roasts.
+- payment_manager.py → Checkout System. Calculates prices with discounts and installment limits.
+- menu_system.py → Interactive Menu. Performs mathematical operations via dynamic menu.
+- complete_analyzer.py → Statistical Analyzer. Analyzes age/gender patterns for group sizes.
+
+### 🛠️ Core Logic & Algorithms
+- palindrome_detector.py → Detects palindromes by cleaning strings through slicing.
+- prime_numbers.py → Verifies prime numbers using mathematical logic and ANSI colors.
+- number_guessing_game.py → Number guessing game using loops and random logic.
+- bank_simulator.py → Simple ATM/bank system simulation with balance control.
+- student_grade_manager.py → Manages student names and grades using dictionaries.
+- tuple_analysis.py → Tuple-based data analysis (min, max, count, sorting).
+- matrix_operations.py → Basic matrix creation and traversal using nested lists.
+- data_statistics.py → Collects numeric data and displays statistics.
+- string_processing.py → Advanced string analysis and formatting.
+- number_classifier.py → Classifies numbers based on multiple conditions and rules.
+
 ---
 
 ## ▶️ How to Run
