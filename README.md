@@ -2,7 +2,7 @@
 
 This repository represents the continuation of my Python learning journey, building upon the foundations established in my previous beginner-level projects.
 
-The main goal of this repository is to further explore, practice, and apply programming logic, core Python concepts, and good coding practices through more complex exercises and problem-solving scenarios, as my understanding of the language evolves.
+The main goal of this repository is to further explore, practice, and apply programming logic, core Python concepts, and good coding practices through more complex exercises and problem-solving scenarios.
 
 ## 📚 Topics Covered
 
@@ -28,7 +28,12 @@ The topics listed below represent concepts studied and applied throughout the pr
 - menu_system.py → Interactive Menu. Performs mathematical operations via dynamic menu.
 - complete_analyzer.py → Statistical Analyzer. Analyzes age/gender patterns for group sizes.
 
-### 🛠️ Core Logic & Algorithms
+### 🛠️ Mathematical Logic & Sequences
+- factorial_calculator.py → Calculates factorials using while loops to demonstrate mathematical accumulators.
+- arithmetic_progression_v3.py → Advanced AP generator with interactive flow control and dynamic term expansion.
+- fibonacci_sequence.py → Generates Fibonacci sequences using variable swapping and sequential logic.
+
+### ⚙️ Core Logic & Algorithms
 - palindrome_detector.py → Detects palindromes by cleaning strings through slicing.
 - prime_numbers.py → Verifies prime numbers using mathematical logic and ANSI colors.
 - number_guessing_game.py → Number guessing game using loops and random logic.
