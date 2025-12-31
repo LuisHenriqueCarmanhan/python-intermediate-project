@@ -8,20 +8,23 @@ The main goal of this repository is to further explore, practice, and apply prog
 
 The topics listed below represent concepts studied and applied throughout the projects:
 
-- Conditional logic and nested conditions (Applied in Payment Manager and Data Analyzer)
-- Loops (for, while) and Control flow (break, continue)
-- Functions and modularization
-- Lists, tuples, and dictionaries
-- String manipulation and formatting (Advanced f-strings and slicing)
-- Input validation and Limiters (Enforcing rules and dynamic constraints)
-- Standard libraries (random, math, time, datetime)
-- User Experience (UX): Adding delays (time.sleep) and ANSI colors
-
+- **State Management & Integration:** Managing a shared global state (e.g., Bank Balance) across independent modules.
+- **Advanced Financial Algorithms:** Implementation of "Greedy Algorithms" for ATM banknote distribution.
+- **Data Persistence & Records:** Tracking global records (highest, lowest, cheapest) that persist across multiple sessions.
+- **Numerical Precision:** Using `round()` and float handling to prevent precision errors in financial calculations.
+- **Conditional logic and nested conditions:** Applied in Payment Managers, Data Analyzers, and Bank Systems.
+- **Loops (for, while) and Control flow (break, continue):** Used for advanced command-based CLI interaction.
+- **String manipulation and formatting:** Advanced f-strings for aligned tables and professional reports.
+- **Input validation and Limiters:** Enforcing dynamic constraints (e.g., preventing withdrawals greater than balance).
+- **Standard libraries:** Utilization of `random`, `math`, `time`, and `datetime`.
+- **User Experience (UX):** Adding delays (`time.sleep`), professional interactive menus, and ANSI colors.
+- **Lists, tuples, and dictionaries**
 ---
 
 ## 📂 Projects
 
 ### ⭐ Featured Projects
+- **bank_simulator.py (Integrated Bank & Shop System):** An advanced CLI application managing a shared global balance between a Shopping Mode and a Smart ATM.
 - evenoddgame.py → Even or Odd: AM Protocol. Hostile AI with Kira-themed responses.
 - rock_paper_scissors.py → AI Edition Jokenpô. Interactive gameplay with dynamic roasts.
 - payment_manager.py → Checkout System. Calculates prices with discounts and installment limits.
@@ -34,10 +37,13 @@ The topics listed below represent concepts studied and applied throughout the pr
 - fibonacci_sequence.py → Generates Fibonacci sequences using variable swapping and sequential logic.
 
 ### ⚙️ Core Logic & Algorithms
+- dynamic_data_stats.py: Processes numeric series to calculate average, maximum, and minimum values in real-time.
+- store_data_analyzer.py: Shopping cart manager that calculates total costs and filters products over $1000.
+- multiple_values_handler.py: Demonstrates data accumulation and infinite loop control with command-based exit.
+- multiplication_table_v3.py: Generates automated, formatted tables for any number until a stop command is issued.
 - palindrome_detector.py → Detects palindromes by cleaning strings through slicing.
 - prime_numbers.py → Verifies prime numbers using mathematical logic and ANSI colors.
 - number_guessing_game.py → Number guessing game using loops and random logic.
-- bank_simulator.py → Simple ATM/bank system simulation with balance control.
 - student_grade_manager.py → Manages student names and grades using dictionaries.
 - tuple_analysis.py → Tuple-based data analysis (min, max, count, sorting).
 - matrix_operations.py → Basic matrix creation and traversal using nested lists.
