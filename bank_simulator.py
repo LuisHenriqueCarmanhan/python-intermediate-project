@@ -1,3 +1,10 @@
+"""
+Bank & Shop Simulator: Integrated CLI System
+--------------------------------------------
+Author: Luis Henrique Carmanhan
+Description: Advanced CLI managing balance between Shopping Mode and ATM.
+Features: Withdrawal logic with bill counting, shopping tracker, and deposits.
+"""
 
 cheapest_name = ""
 lowest_price = 0
