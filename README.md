@@ -45,10 +45,7 @@ The topics listed below represent concepts studied and applied throughout the pr
 - prime_numbers.py → Verifies prime numbers using mathematical logic and ANSI colors.
 - number_guessing_game.py → Number guessing game using loops and random logic.
 - student_grade_manager.py → Manages student names and grades using dictionaries.
-- tuple_analysis.py → Tuple-based data analysis (min, max, count, sorting).
-- matrix_operations.py → Basic matrix creation and traversal using nested lists.
 - data_statistics.py → Collects numeric data and displays statistics.
-- string_processing.py → Advanced string analysis and formatting.
 - number_classifier.py → Classifies numbers based on multiple conditions and rules.
 
 ---
